@@ -34,3 +34,18 @@ pip install -r requirements.txt
 ```
 python -m src.main
 ```
+
+## Пример использования
+
+>## Summary
+>- **Total Tables:** 5
+>- **Total Size:** 4,520.45 GB
+>## Details
+>| Table Name | Rows Count | Size (GB) |
+>|------------|------------:|-----------:|
+>| `public.transactions_2024` | 850,000,000 | 1,250.12 |
+>| `mart.clickstream_logs` | 2,100,500,100 | 2,800.05 |
+>| `staging.raw_json_dump` | 15,000,000 | 450.20 |
+>| `public.users_history` | 45,000,000 | 18.50 |
+>| `ref.product_catalog` | 120,000 | 1.58 |
+
